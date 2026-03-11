@@ -5,7 +5,7 @@ This resource is made by `may2high` on discord. We perserve all rights to this r
 
 [Purchase the script here!](https://mayscripts.tebex.io/package/7055843)
 # Dependencies [interact-sound](https://github.com/plunkettscott/interact-sound) & [ox_lib](https://github.com/overextended/ox_lib)
-## Don't change the resource name ## 
+**Don't change the resource name**
 
 **may-deport** Is a player management script that allows authorized users to deport players to a specified location by default it is Cayo Perico.
 This resource supports ACE Permissions, Sound Effects, Input Dialogs, NativeUI Integration, and Discord Logging. 
