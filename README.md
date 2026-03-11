@@ -3,7 +3,7 @@ This resource is made by `may2high` on discord. We perserve all rights to this r
 
 [![Watch the video](https://github.com/cashoutmay/m-deport/blob/main/1002.gif)]([https://www.youtube.com/watch?v=_5tFXJQIzi4](https://www.youtube.com/watch?v=G0Ck1_bT7GI))
 
-[Purchase the script here!](https://mayscripts.tebex.io/package/7055843)
+[Purchase the script here!](https://mayscripts.tebex.io/package/7055843) (if purchased thank you)
 # Dependencies [interact-sound](https://github.com/plunkettscott/interact-sound) & [ox_lib](https://github.com/overextended/ox_lib)
 **Don't change the resource name**
 
