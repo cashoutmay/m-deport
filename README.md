@@ -1,7 +1,9 @@
 ## May Deport
 This resource is made by `may2high` on discord. We perserve all rights to this resource and if caught exporting this resource or stealing it you will be delt with by the law. We do not accept any thefts.
-# Dependencies [interact-sound](https://github.com/plunkettscott/interact-sound) & [ox_lib](https://github.com/overextended/ox_lib)
 
+https://www.youtube.com/watch?v=G0Ck1_bT7GI
+
+# Dependencies [interact-sound](https://github.com/plunkettscott/interact-sound) & [ox_lib](https://github.com/overextended/ox_lib)
 ## Don't change the resource name ## 
 
 **may-deport** Is a player management script that allows authorized users to deport players to a specified location by default it is Cayo Perico.
